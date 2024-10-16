@@ -1,0 +1,18 @@
+<div #pano class="pano" id="pano"></div>
+<div id="toggleDeviceOrientation">
+  <img (click)="deviceMode($event)" src="https://www.marzipano.net/demos/device-orientation/img/enable.png"
+       [class.hidden]="enableOrientation">
+  <img (click)="touchMode($event)" src="https://www.marzipano.net/demos/device-orientation/img/disable.png"
+       [class.hidden]="!enableOrientation">
+</div>
+<ul>
+  <li (click)="cabin()">
+    <img src="https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/cabin.jpg" alt="cabin">
+  </li>
+  <li (click)="field()">
+    <img src="https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/field.jpg" alt="field">
+  </li>
+  <li (click)="golf()">
+    <img src="https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/golf.jpg" alt="golf">
+  </li>
+</ul>

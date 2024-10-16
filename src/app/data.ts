@@ -1,0 +1,16 @@
+export const urls = [
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/cabin.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/field.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/golf.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/lamp.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/leaf.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/lookout.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/pier.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/rock.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/suite.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/equirectangular/tent.jpg',
+  'https://pchen66.github.io/Panolens/examples/asset/textures/1941-battle.jpg',
+  'https://pchen66.github.io/Panolens/images/panorama_video.jpg',
+  'https://www.marzipano.net/demos/device-orientation/img/enable.png',
+  'https://www.marzipano.net/demos/device-orientation/img/disable.png',
+];
